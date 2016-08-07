@@ -10,7 +10,7 @@
 
 
 ##To Do application base list 
-- [x] Wordpress Install Automation
+- [x] [Wordpress Install Automation](https://github.com/ZgrK/Lemp-Automation/blob/master/AppInstall/wp_last.sh) 
 - [ ] Prestashop Install Automation
 - [ ] Drupal Install Automation
 
